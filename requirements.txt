@@ -1,0 +1,18 @@
+# OCR dependencies
+paddleocr[doc-parser]==3.4.0
+transformers==5.1.0
+accelerate==1.6.0
+
+# Web framework
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.6
+python-multipart==0.0.20
+
+# Document processing
+pdf2image==1.17.0
+Pillow==11.1.0
+python-docx==1.1.2
+
+# Async file operations
+aiofiles==24.1.0
